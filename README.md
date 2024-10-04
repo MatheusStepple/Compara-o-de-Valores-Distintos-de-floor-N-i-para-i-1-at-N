@@ -1,7 +1,8 @@
 # Comparação de Valores Distintos de `floor(N/i)` para `i=1` até `N`
 
 ### Descrição
-Este projeto analisa a quantidade de valores distintos gerados pela função `floor(N/i)` à medida que `i` varia de 1 a `N`. O objetivo principal é identificar e explorar os padrões na distribuição desses valores, bem como quantificar a singularidade dos resultados obtidos ao longo do intervalo de `i`.
+Este projeto investiga a quantidade de valores distintos gerados pela função `floor(N/i)` à medida que `i` varia de 1 a `N`. O foco é identificar padrões na distribuição desses valores e quantificar a singularidade dos resultados. Essa análise é fundamental para o estudo de **algoritmos e estruturas de dados**, pois ajuda a entender a eficiência de diferentes abordagens para a resolução de problemas computacionais. Para mais detalhes, consulte a [questão no Math Stack Exchange](https://math.stackexchange.com/questions/1069460/how-many-distinct-values-of-floorn-i-exists-for-i-1-to-n).
+
 
 ### Metodologia
 Para abordar a questão, serão implementados dois métodos distintos que calculam os valores de `floor(N/i)`:
